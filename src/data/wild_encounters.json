@@ -21538,6 +21538,31 @@
               {
                 "min_level": 12,
                 "max_level": 13,
+                "species": "SPECIES_PSYDUCK"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_VENONAT"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_POLIWAG"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_VENONAT"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_POLIWAG"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
                 "species": "SPECIES_SLOWPOKE"
               },
               {
@@ -21548,12 +21573,7 @@
               {
                 "min_level": 12,
                 "max_level": 13,
-                "species": "SPECIES_POLIWAG"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_PSYDUCK"
+                "species": "SPECIES_VENONAT"
               },
               {
                 "min_level": 12,
@@ -21563,27 +21583,7 @@
               {
                 "min_level": 12,
                 "max_level": 13,
-                "species": "SPECIES_PSYDUCK"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_POLIWAG"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_PSYDUCK"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_POLIWAG"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_PSYDUCK"
+                "species": "SPECIES_VENONAT"
               },
               {
                 "min_level": 12,
